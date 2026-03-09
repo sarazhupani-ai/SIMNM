@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html>
+<head style="color:#C6F628;>
+<title style="color:black;font-family:verdana;"
+<img src="db34a4ee-c547-4f3e-ad89-c9be96e5c01d.jpg">
+SIMNM
+</title>
+</head>
+<body style="color:#F9FEE7;">
+<h1 style="color:#C6F628;font-family:Georgia;text-align:centre;">
+Sistemi Inteligjent i Monitorimit të Niveit të Mbetjeve 
+</h1>
+<h2 style="color:#C6F628;font-family:Georgia;text-align:centre;">
+Shkrimi i Projektit
+</h2>
+<iframe src="file:///C:/Users/User/Desktop/PREZANTIMI%20SHKENCOR.pptx%20(1).pdf" width="100%" height="700px" style="border:1px;color:#9CC908" title="Sistemi Inteligjent i Monitorimit të Niveit të Mbetjeve">
+    Your browser does not support iframes. [Download the PDF](file:///C:/Users/User/Desktop/PREZANTIMI%20SHKENCOR.pptx%20(1).pdf).
+</iframe>
+</body>
+</html>
+
+
+
